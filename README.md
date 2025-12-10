@@ -1,0 +1,24 @@
+# Drug Consumption | Analisi, visualizzazione e clustering
+
+## Dataset
+- **Nome**: Drug Consumption (Quantified)
+- **Fonte**: UCI Machine Learning Repository
+- **Link**: https://archive.ics.uci.edu/dataset/373/drug+consumption+quantified
+- **Features**: 12, incluse:
+    - Età, genere, livello di istruzione, paese di residenza, etnia
+    - Tratti di personalità
+
+## Obiettivi
+- analisi della correlazione fra tratti psicologici e uso delle sostanze
+- predire l'uso simultaneo di più droghe
+- segmentare la popolazione in gruppi basati su personalità e consumo di sostanze
+- analisi dei profili psicologici per ciascuna droga
+- interpretare chiaramente quali features aumentano o riducono la probabilità di uso di una sostanza
+- stima dell'ordine tipico in cui vengono provate le sostanze
+- differenza dei tratti psicologici di consumatori di droghe legali e droghe illegali
+- analisi della correlazione tra ogni droga e ogni tratto di personalità
+
+## Organizzazione del repository
+/drug-consumption-mdp
+├── 📂 code/              # codici e file del dataset
+└── 📝 README.md
