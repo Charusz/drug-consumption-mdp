@@ -19,6 +19,6 @@
 - analisi della correlazione tra ogni droga e ogni tratto di personalità
 
 ## Organizzazione del repository
-/drug-consumption-mdp
-├── 📂 code/              # codici e file del dataset
-└── 📝 README.md
+/drug-consumption-mdp  
+├── 📂 code/              # codici e file del dataset  
+└── 📝 README.md  
