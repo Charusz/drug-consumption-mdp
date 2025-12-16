@@ -4,6 +4,7 @@
 - **Nome**: Drug Consumption (Quantified)
 - **Fonte**: UCI Machine Learning Repository
 - **Link**: https://archive.ics.uci.edu/dataset/373/drug+consumption+quantified
+- **Campioni**: 1885
 - **Features**: 12, incluse:
     - Età, genere, livello di istruzione, paese di residenza, etnia
     - Tratti di personalità
