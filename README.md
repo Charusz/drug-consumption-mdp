@@ -27,4 +27,3 @@
 /drug-consumption-mdp  
 ├── 📂 code/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# codici e file del dataset  
 └── 📝 README.md  
-└── 📑 presentazione.pdf
