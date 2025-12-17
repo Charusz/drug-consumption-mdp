@@ -21,7 +21,7 @@
 - tratti psicologici e demografici correlabili al policonsumo di sostanze
 
 ## Presentazione
-- **Link**: https://www.figma.com/deck/jcVf3SP1O1hajApEKqXE9F/Drug-Consumption--mdp-project-?node-id=1-337&viewport=-34971%2C-37%2C0.85&t=1GCdAqKqKL7giL5C-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
+**Link**: https://www.figma.com/deck/jcVf3SP1O1hajApEKqXE9F/Drug-Consumption--mdp-project-?node-id=1-337&viewport=-34971%2C-37%2C0.85&t=1GCdAqKqKL7giL5C-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Organizzazione del repository
 /drug-consumption-mdp  
